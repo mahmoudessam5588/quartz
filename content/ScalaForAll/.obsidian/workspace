@@ -7,8 +7,12 @@
         "id": "e946f49b577587b8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Demystifying-Scala-partOne.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Demystifying-Scala-partOne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,5 +96,8 @@
     "collapsed": true
   },
   "active": "e946f49b577587b8",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Demystifying-Scala-partOne.md",
+    "Untitled.md"
+  ]
 }

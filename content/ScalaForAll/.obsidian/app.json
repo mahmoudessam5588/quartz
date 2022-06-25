@@ -2,5 +2,6 @@
   "legacyEditor": false,
   "livePreview": true,
   "newLinkFormat": "absolute",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }

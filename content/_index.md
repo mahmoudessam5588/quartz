@@ -10,6 +10,7 @@ enableToc: true
 ![MasterHead](https://w0.peakpx.com/wallpaper/195/343/HD-wallpaper-scala-black-logo-programming-language-grid-metal-background-scala-artwork-creative-programming-language-signs-scala-logo.jpg)
 
 ## About Me 🏡
+![img](/quartz/content/notes/images/75761905.png)
 
 - My name is Mahmoud Essam
 
@@ -47,5 +48,5 @@ the functional programming paradigm of Scala and It's Frameworks , libraries and
 
 ## Content Categories  🗺
 
-- [All Notes](/home/mahmoud-essam/Music/ScalaStack/quartz/content/ScalaForAll/Demystifying-Scala-partOne.md)
+- [All Notes](/quartz/content/ScalaForAll/Demystifying-Scala-partOne.md)
 

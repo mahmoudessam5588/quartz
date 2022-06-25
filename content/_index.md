@@ -11,7 +11,7 @@ enableToc: true
 
 ## About Me 🏡
 
-<img align ="right" alt="Coding" width="150" src="https://avatars.githubusercontent.com/u/75761905?v=4">
+![image](./notes/images/75761905.jpeg)
 
 - My name is Mahmoud Essam
 

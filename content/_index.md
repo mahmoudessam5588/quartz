@@ -49,5 +49,6 @@ the functional programming paradigm of Scala and It's Frameworks , libraries and
 ## Content Categories  🗺
 
 - [All Notes](/quartz/content/ScalaForAll/Demystifying-Scala-partOne.md)
-- 
+
+bla
 

@@ -28,9 +28,12 @@ the functional programming paradigm of Scala and It's Frameworks , libraries and
 
 ## Quotes I Follow in Life ⚡
 
-   >**The job is what you do when you are told what to do. The job is showing up at the factory, following instructions, meeting spec, and being managed.     Someone can always do your job a little better or faster or cheaper than you can. The job might be difficult, it might require skill, but it's a job.     Your art is what you do when no one can tell you exactly how to do it. Your art is the act of taking personal responsibility, challenging the status     quo, and changing people. I call the process of doing your art 'the work.' It's possible to have a job and do the work, too. In fact, that's how you     become a linchpin. The job is not the work.”**
-      >>> _**Seth Godin, Linchpin: Are You Indispensable?**_
-  ---
+   >**One day I was behind the Prophet (peace and blessings of Allah be upon him) [riding on the same mount] and he said, “O young man, I shall teach you   some words [of advice]: Be mindful of Allah and Allah will protect you. Be mindful of Allah and you will find Him in front of you. If you ask, then ask   Allah [alone]; and if you seek help, then seek help from Allah [alone]. And know that if the nation were to gather together to benefit you with     anything, they would not benefit you except with what Allah had already prescribed for you. And if they were to gather together to harm you with anything, they would not harm you except with what Allah had already prescribed against you. The pens have been lifted and the pages have dried.” It was related by at-Tirmidhi, who said it was a good and sound hadeeth. Another narration, reads: Be mindful of Allah, and you will find Him in front of you. Recognize and acknowledge Allah in times of ease and prosperity, and He will remember you in times of adversity. And know that what has passed you by [and you have failed to attain] was not going to befall you, and what has befallen you was not going to pass you by. And know that victory comes with patience, relief with affliction, and hardship with ease.**
+  >> **Prophet Mohammed Peace Be Upon Him**
+
+   >**The job is what you do when you are told what to do. The job is showing up at the factory, following instructions, meeting spec, and being managed.Someone can always do your job a little better or faster or cheaper than you can. The job might be difficult, it might require skill, but it's a job.     Your art is what you do when no one can tell you exactly how to do it. Your art is the act of taking personal responsibility, challenging the status     quo, and changing people. I call the process of doing your art 'the work.' It's possible to have a job and do the work, too. In fact, that's how you     become a linchpin. The job is not the work.”**
+   >>> _**Seth Godin, Linchpin: Are You Indispensable?**_
+   ---
    >**Don't ever give up.
     Don't ever give in.
     Don't ever stop trying.

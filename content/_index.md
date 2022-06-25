@@ -1,27 +1,37 @@
 ---
-title: 🪴 Quartz 3.2
+title: "Scala-Stack"
 ---
+# :hearts:About Me:
+ I'm a self-taught Software Engineer From Egypt,who has decided to make a carrier shift from Retail Pharmaceutical Chains Industry as a former Area Manager to follow my Passion in Software Programming
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+   I Have Learned (Java,Python,Scala) and other software developments fundamentals and prerequisites before embracing
+    the functional programming paradigm of Scala and It's Frameworks , libraries and ecosystem
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]]
-5. Support for both Markdown Links and Wikilinks
+   ⚖️ I Made This Blog As My Second Brain:
+   
+     - Where I'm demystifying Scala language concepts, data structures and algorithms 
+     - Explaining ( Akka Ecosystem , Cats/Cats effect ,Kafka)
+     - With hands on coding projects with Explanation
+     - Daily upload Scala Quizzes , Exercises and Coding challenges with Explanation
 
-## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
 
-Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with.
+- ⚡ Quotes I Follow in Life:
+   >**The job is what you do when you are told what to do. The job is showing up at the factory, following instructions, meeting spec, and being managed.     Someone can always do your job a little better or faster or cheaper than you can. The job might be difficult, it might require skill, but it's a job.     Your art is what you do when no one can tell you exactly how to do it. Your art is the act of taking personal responsibility, challenging the status     quo, and changing people. I call the process of doing your art 'the work.' It's possible to have a job and do the work, too. In fact, that's how you     become a linchpin. The job is not the work.”** 
+   >>**― Seth Godin, Linchpin: Are You Indispensable?**
+   ---
+   >**“Don't ever give up.
+    Don't ever give in.
+    Don't ever stop trying.
+    Don't ever sell out.
+    And if you find yourself succumbing to one of the above for a brief moment,
+    pick yourself up, brush yourself off, whisper a prayer, and start where you left off.
+    But never, ever, ever give up.”**
+    >>**― Richelle E. Goodrich, Eena, The Tempter's Snare**
 
+    ---
 ## Content Lists
 If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
 
 - [All Notes](/notes)
 - [Setup-related Notes](/tags/setup)
 
-## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)

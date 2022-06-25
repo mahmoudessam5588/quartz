@@ -11,8 +11,6 @@ enableToc: true
 
 ## About Me 🏡
 
-![image](/quartz/content/notes/images/75761905.png)
-
 - My name is Mahmoud Essam
 
 - I'm a self-taught Software Engineer From Egypt,who has decided to make a carrier shift from Retail Pharmaceutical Chains Industry as a former Area Manager to follow my Passion in Software Programming

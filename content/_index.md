@@ -34,8 +34,8 @@ title: "Scala-Stack"
     But never, ever, ever give up.”**
     >>**_ Richelle E. Goodrich, Eena, The Tempter's Snare _**
 
-    ---
-
+   
+   ---
 # ⚡Content Lists
 
 

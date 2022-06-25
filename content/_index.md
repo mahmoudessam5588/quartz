@@ -1,6 +1,9 @@
 ---
-title: "Scala-Stack" :fireworks:
+
+title: "Scala-Stack"
+
 ---
+
 # ⚡About Me:
 
    I'm a self-taught Software Engineer From Egypt,who has decided to make a carrier shift from Retail Pharmaceutical Chains Industry as a former Area Manager to follow my Passion in Software Programming
@@ -34,7 +37,7 @@ title: "Scala-Stack" :fireworks:
 
 # ⚡Content Lists
 
-If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
+
 
 - [All Notes](/notes)
 - [Setup-related Notes](/tags/setup)

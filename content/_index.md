@@ -4,12 +4,14 @@ title: "Scala-Stack Garden 🪴"
 enableToc: true
    1-[About Me](#⚡about-me)
    2-[Quotes I Follow in Life](#⚡quotes-i-follow-in-life)
-   3- [Content Categories](#⚡content-categories)
+   3-[Content Categories](#⚡content-categories)
 ---
 
 ![MasterHead](https://w0.peakpx.com/wallpaper/195/343/HD-wallpaper-scala-black-logo-programming-language-grid-metal-background-scala-artwork-creative-programming-language-signs-scala-logo.jpg)
 
 ## About Me 🏡
+
+![image](/quartz/content/notes/images/75761905.png)
 
 - My name is Mahmoud Essam
 
@@ -47,5 +49,5 @@ the functional programming paradigm of Scala and It's Frameworks , libraries and
 
 ## Content Categories  🗺
 
-- [All Notes](/notes)
+- [All Notes](quartz/content/ScalaForAll)
 - [Setup-related Notes](/tags/setup)

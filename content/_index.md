@@ -1,7 +1,7 @@
 ---
 title: "Scala-Stack"
 ---
-# :hearts:About Me:
+# :gem:About Me:
  I'm a self-taught Software Engineer From Egypt,who has decided to make a carrier shift from Retail Pharmaceutical Chains Industry as a former Area Manager to follow my Passion in Software Programming
 
    I Have Learned (Java,Python,Scala) and other software developments fundamentals and prerequisites before embracing

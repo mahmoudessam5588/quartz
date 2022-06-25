@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Mahmoud Essam
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -8,12 +8,14 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  -Demystifying Scala language concepts, data structures and algorithms 
+  -Explaining (Akka Ecosystem , Cats/Cats effect ,Kafka)
+  -With hands on coding projects with Explanation
+  -Daily upload Scala Quizzes , Exercises and Coding challenges with Explanation**
 page_title:
-  "🪴 Quartz 3.2"
+  "🪴 Scala Stack"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: Linkedin
+    link: https://www.linkedin.com/in/mahmoud-essam-706a86ba/
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/mahmoudessam5588

@@ -7,21 +7,26 @@ enableToc: true
    3- [Content Categories](#⚡content-categories)
 ---
 
+![MasterHead](https://w0.peakpx.com/wallpaper/195/343/HD-wallpaper-scala-black-logo-programming-language-grid-metal-background-scala-artwork-creative-programming-language-signs-scala-logo.jpg)
+
 
 
 ## About Me 🏡
+<img align ="right" alt="Coding" width="150" src="https://avatars.githubusercontent.com/u/75761905?v=4">
 
-   I'm a self-taught Software Engineer From Egypt,who has decided to make a carrier shift from Retail Pharmaceutical Chains Industry as a former Area Manager to follow my Passion in Software Programming
+- My name is Mahmoud Essam
 
-   I Have Learned (Java,Python,Scala) and other software developments fundamentals and prerequisites before embracing
-    the functional programming paradigm of Scala and It's Frameworks , libraries and ecosystem
+- I'm a self-taught Software Engineer From Egypt,who has decided to make a carrier shift from Retail Pharmaceutical Chains Industry as a former Area Manager to follow my Passion in Software Programming
+- I Have Learned (Java,Python,Scala) and other software developments fundamentals and prerequisites before embracing
+the functional programming paradigm of Scala and It's Frameworks , libraries and ecosystem
 
-   I Made This Blog As My Second Brain ⚖️
+- I Made This Blog As My Second Brain ⚖️
 
       - Where I'm demystifying Scala language concepts, data structures and algorithms 
       - Explaining (Akka Ecosystem , Cats/Cats effect ,Kafka)
       - With hands on coding projects with Explanation
       - Daily upload Scala Quizzes , Exercises and Coding challenges with Explanation**
+
 ---
 
 ## Quotes I Follow in Life ⚡

@@ -4,6 +4,8 @@ title: "Scala-Stack"
 
 ---
 
+![MasterHead](https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg)
+
 # ⚡About Me:
 
    I'm a self-taught Software Engineer From Egypt,who has decided to make a carrier shift from Retail Pharmaceutical Chains Industry as a former Area Manager to follow my Passion in Software Programming
@@ -33,6 +35,7 @@ title: "Scala-Stack"
     pick yourself up, brush yourself off, whisper a prayer, and start where you left off.
     But never, ever, ever give up.”**
     >>**Richelle E. Goodrich, Eena, The Tempter's Snare**
+    
 
    
    ---

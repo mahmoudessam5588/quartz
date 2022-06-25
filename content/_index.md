@@ -9,9 +9,8 @@ enableToc: true
 
 ![MasterHead](https://w0.peakpx.com/wallpaper/195/343/HD-wallpaper-scala-black-logo-programming-language-grid-metal-background-scala-artwork-creative-programming-language-signs-scala-logo.jpg)
 
-
-
 ## About Me 🏡
+
 <img align ="right" alt="Coding" width="150" src="https://avatars.githubusercontent.com/u/75761905?v=4">
 
 - My name is Mahmoud Essam
@@ -31,8 +30,8 @@ the functional programming paradigm of Scala and It's Frameworks , libraries and
 
 ## Quotes I Follow in Life ⚡
 
-   >**The job is what you do when you are told what to do. The job is showing up at the factory, following instructions, meeting spec, and being managed.     Someone can always do your job a little better or faster or cheaper than you can. The job might be difficult, it might require skill, but it's a job.     Your art is what you do when no one can tell you exactly how to do it. Your art is the act of taking personal responsibility, challenging the status     quo, and changing people. I call the process of doing your art 'the work.' It's possible to have a job and do the work, too. In fact, that's how you     become a linchpin. The job is not the work.”** 
-   >>>**Seth Godin, Linchpin: Are You Indispensable?**
+   >**The job is what you do when you are told what to do. The job is showing up at the factory, following instructions, meeting spec, and being managed.     Someone can always do your job a little better or faster or cheaper than you can. The job might be difficult, it might require skill, but it's a job.     Your art is what you do when no one can tell you exactly how to do it. Your art is the act of taking personal responsibility, challenging the status     quo, and changing people. I call the process of doing your art 'the work.' It's possible to have a job and do the work, too. In fact, that's how you     become a linchpin. The job is not the work.”**
+      >>> _**Seth Godin, Linchpin: Are You Indispensable?**_
   ---
    >**Don't ever give up.
     Don't ever give in.
@@ -41,7 +40,7 @@ the functional programming paradigm of Scala and It's Frameworks , libraries and
     And if you find yourself succumbing to one of the above for a brief moment,
     pick yourself up, brush yourself off, whisper a prayer, and start where you left off.
     But never, ever, ever give up.**
-    >>>**Richelle E. Goodrich,Eena,The Tempter's Snare**
+      >>> _**Richelle E. Goodrich,Eena,The  Tempter's Snare**_
 
    ---
 

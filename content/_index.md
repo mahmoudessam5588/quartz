@@ -11,7 +11,7 @@ enableToc: true
 
 ## About Me 🏡
 
-![image](/notes/images/75761905.png)
+![image](/quartz/content/notes/images/75761905.png)
 
 - My name is Mahmoud Essam
 

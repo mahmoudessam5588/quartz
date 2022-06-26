@@ -8,7 +8,7 @@ tags:
 ---
 ![MasterHead](https://besthqwallpapers.com/Uploads/20-2-2020/122281/thumb2-scala-glitter-logo-programming-language-grid-metal-background-scala-creative.jpg)
 
-## Brief Introduction To Scala:
+## Brief Introduction To Scala
 
 - _Scala stands for “scalable language.” The language is so named
 because it was designed to grow with the demands of its users. You can apply
@@ -40,14 +40,14 @@ a legible and concise programming style._ :star2:
 
 - `var` is the opposite it can be reassigned to new value through it's lifetime as shown Below
 
-- ```scala
+  ```scala
   var greeting = "Hello, World!"
   greeting = "Hello My Name Is Mahmoud"
   ```
 
 - Scala is statically Typed but compiler can infer the Types  
 
-- ```scala
+  ```scala
   val aString: String = "hello"
   val aBoolean: Boolean = false
   val aChar: Char = 'a'
@@ -69,14 +69,14 @@ a legible and concise programming style._ :star2:
 
 ## Scala Function Definition And Syntax
 
-- ```scala
+  ```scala
   def biggerThan (x:Int , y:Int):Int = 
   if x > y the x else Y
   ```
 
 - `def` == defining method , `biggerThan` == function name , `(x:Int,y:Int)` == parameter list in parentheses ,`:Int` == function return type scala function **must have a return type** , `if x > y the x else Y` the body of the function
 
-- ```scala
+  ```scala
   def greet():Unit = println("Hello, world!")
   ```
 
@@ -123,8 +123,6 @@ does something other than simply return a result, for example:
       for x <- evenNum if x % 2 == 0 yield x
     aCollection(LazyList(2,3,4,6,7)) foreach println
   ```
-
-  - **OutPut**
 
   ```console
     2

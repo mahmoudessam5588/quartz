@@ -54,6 +54,11 @@ C -->|Two| E[Result 2]
 
 ![Some text]({{site.url}}{{site.baseurl}/quartz/content/notes/images/pako.png)
 
+![link](https://mermaid.ink/img/pako:eNo1zkELgkAQhuG_MsypQA919BBkCh2CwLy5HQZ3zCXdjXWXCvW_t0XehocXvhmxNpIxQaGbzjzrlqyDUyH0vjqSlVeI491U8stNkK4K47VcC51-FQ5jxrUalNGz0IdfeNY8QVYVPPjOwea6ePk0E-SLb4MDYIQ9256UDOvjVwS6lnsWmIRTkr2L8NUcOv-Q5DiXyhmLSUPdwBGSd-by1jUmznpeokzRzVL_r-YPVHFK7Q)
+
+
+1[linkSvg](https://mermaid.ink/svg/pako:eNo1zkELgkAQhuG_MsypQA919BBkCh2CwLy5HQZ3zCXdjXWXCvW_t0XehocXvhmxNpIxQaGbzjzrlqyDUyH0vjqSlVeI491U8stNkK4K47VcC51-FQ5jxrUalNGz0IdfeNY8QVYVPPjOwea6ePk0E-SLb4MDYIQ9256UDOvjVwS6lnsWmIRTkr2L8NUcOv-Q5DiXyhmLSUPdwBGSd-by1jUmznpeokzRzVL_r-YPVHFK7Q)
+
 
 
 

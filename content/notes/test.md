@@ -2,7 +2,7 @@
 title: "Deploying Quartz to the Web"
 tags:
 - scala-lang
-enableToc:
+enableToc: true
   1. [fr](#fr)
   2. [dd](#dd)
     
@@ -49,6 +49,13 @@ C -->|Two| E[Result 2]
 ![Some text]({{site.url}}{{site.baseurl}}/../images/pako.png)
 
 ![Some text]({{site.url}}{{site.baseurl}/content/notes/images/pako.png)
+
+![Some text]({{site.url}}{{site.baseurl}/images/pako.png)
+
+![Some text]({{site.url}}{{site.baseurl}/quartz/content/notes/images/pako.png)
+
+
+
 
 
 

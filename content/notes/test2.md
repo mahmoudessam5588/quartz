@@ -1,5 +1,5 @@
 ---
-title: "Deploying Quartz to the Web"
+title: "Deploying Quartz to the Web2"
 tags:
 - scala-lang
 

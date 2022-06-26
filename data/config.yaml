@@ -1,12 +1,12 @@
 name: Mahmoud Essam
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 description:
   -Demystifying Scala language concepts, data structures and algorithms 
   -Explaining (Akka Ecosystem , Cats/Cats effect ,Kafka)

@@ -22,6 +22,11 @@ object HelloWorld {
 
 ---
 
+![image](/quartz/content/notes/images/pako.png)
+
+---
+
+
 [check all notes](/notes)
 
 ## dd

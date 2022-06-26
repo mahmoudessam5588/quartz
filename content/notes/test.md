@@ -16,7 +16,7 @@ object HelloWorld {
 
 ---
 
-![mermaid](/content/notes/images/pako.jpeg)
+![mermaid](/content/notes/images/pako.png)
 
 
 [check all notes](/notes)

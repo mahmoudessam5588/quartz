@@ -1,8 +1,10 @@
 ---
+
 title: "Deploying Quartz to the Web"
 enableToc: true
    1-[fr](#fr)
    2-[dd](#dd)
+   3-[Content Categories](#content-categories-🗺)
 tags:
 - scala-lang
 
@@ -30,3 +32,8 @@ object HelloWorld {
 [check all notes](/notes)
 
 ## dd
+
+## Content Categories  🗺
+
+- [All Notes](/notes)
+- [Setup-related Notes](/tags/Scala-Lang)

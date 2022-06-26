@@ -35,5 +35,5 @@ object HelloWorld {
 
 ## Content Categories  🗺
 
-- [All Notes](/notes)
-- [Setup-related Notes](/tags/Scala-Lang)
+- [All Notes](/notes/)
+- [Setup-related Notes](/tags/Scala-Lang/)

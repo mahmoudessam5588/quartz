@@ -1,8 +1,5 @@
 ---
 title: "Deploying Quartz to the Web"
-enableToc: true
-   1-[fr](#fr)
-   2-[dd](#dd)
 tags:
 - scala-lang
 

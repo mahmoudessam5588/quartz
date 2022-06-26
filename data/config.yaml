@@ -1,6 +1,6 @@
 name: Mahmoud Essam
 enableToc: true
-openToc: true
+openToc: false
 enableLinkPreview: true
 enableLatex: true
 enableSPA: true

@@ -7,7 +7,7 @@ enableToc: true
    3-[Content Categories](#⚡content-categories)
 ---
 
-![MasterHead](https://w0.peakpx.com/wallpaper/195/343/HD-wallpaper-scala-black-logo-programming-language-grid-metal-background-scala-artwork-creative-programming-language-signs-scala-logo.jpg)
+![MasterHead](https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg)
 
 ## About Me 🏡
 

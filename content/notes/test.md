@@ -14,13 +14,9 @@ object HelloWorld {
 }
 ```
 
- ---
+---
 
-```mermaid
-flowchart LR
+![mermaid](/quartz/content/notes/images/pako.jpeg)
 
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
+
+[check all notes](/quartz/content/notes/)

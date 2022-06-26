@@ -45,7 +45,7 @@ the functional programming paradigm of Scala and It's Frameworks , libraries and
 
    ---
 
-## Content Categories  🗺
+## My Blog Contents   🗺
 
 - [All Notes](/notes/)
 - [All Tages By Categories](/tags/)

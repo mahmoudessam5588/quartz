@@ -1,6 +1,6 @@
 ---
 
-title: "Deploying Quartz to the Web"
+title: "Scala programming concept part one"
 enableToc: true
    1-[fr](#fr)
    2-[dd](#dd)
@@ -24,16 +24,4 @@ object HelloWorld {
 
 ---
 
-![image](/quartz/content/notes/images/pako.png)
-
----
-
-
-[check all notes](/notes)
-
 ## dd
-
-## Content Categories  🗺
-
-- [All Notes](/notes/)
-- [Setup-related Notes](/tags/Scala-Lang/)

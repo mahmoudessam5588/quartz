@@ -42,6 +42,16 @@ C -->|Two| E[Result 2]
 ![imagef](./content/notes/images/pako.png)
 ![imagef](content/notes/images/pako.png)
 
+---
+![image](/content/notes/images/pako.png)
+
+---
+![Some text]({{site.url}}{{site.baseurl}}/../images/pako.png)
+
+![Some text]({{site.url}}{{site.baseurl}/content/notes/images/pako.png)
+
+
+
 
 
 

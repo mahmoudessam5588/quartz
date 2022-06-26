@@ -13,7 +13,7 @@ tags:
 - _Scala stands for “scalable language.” The language is so named
 because it was designed to grow with the demands of its users. You can apply
 Scala to a wide range of programming tasks, from writing small scripts to
-building large systems._  :muscle:
+building large systems._
 
 - _Scala is a blend of object-oriented and functional programming concepts in a         statically  typed language.
 The fusion of object-oriented and functional programming shows up 
@@ -25,7 +25,7 @@ interesting things quickly from simple parts. Its object-oriented constructs
 make it easy to structure larger systems and adapt them to new demands.
 The combination of both styles in Scala makes it possible to express new
 kinds of programming patterns and component abstractions. It also leads to
-a legible and concise programming style._ :star2:
+a legible and concise programming style._
 
 > _**Source : Scala Programming 5th Edition Book**_
 >>> **By Martin Odersky**
@@ -225,7 +225,7 @@ A statement is just an expression that doesn’t return a value. Statements have
       if z > 2 then "hello" else "goodbye"
   ```  
 
-    ---
+  ---
 
 ## String Operations In Scala
 

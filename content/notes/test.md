@@ -19,7 +19,7 @@ object HelloWorld {
 
 ---
 
-```
+```mermaid
 flowchart LR
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
@@ -30,10 +30,16 @@ C -->|Two| E[Result 2]
 ---
 
 ![image](images/pako.png)
-![images](/images/pako.png)
-![imagek](/quartz/content/notes/images/pako.pngimages/pako.png)
+
+---
+
+![images](./images/pako.png)
+
+---
+
+![imagek](./quartz/content/notes/images/pako.pngimages/pako.png)
 ![imagel](quartz/content/notes/images/pako.png)
-![imagef](/content/notes/images/pako.png)
+![imagef](./content/notes/images/pako.png)
 ![imagef](content/notes/images/pako.png)
 
 

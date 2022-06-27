@@ -8,6 +8,8 @@ tags:
 ---
 ![MasterHead](https://besthqwallpapers.com/Uploads/20-2-2020/122281/thumb2-scala-glitter-logo-programming-language-grid-metal-background-scala-creative.jpg)
 
+## [GitHub Source Code](https://github.com/mahmoudessam5588/scala-programming-part-one)
+
 ## Brief Introduction To Scala
 
 - _Scala stands for “scalable language.” The language is so named
@@ -31,6 +33,8 @@ a legible and concise programming style._
 >>> **By Martin Odersky**
 
   ---
+
+## [GitHub Repo Click This Link]()
 
 ## Scala Variables
 
@@ -71,7 +75,7 @@ a legible and concise programming style._
 
   ```scala
   def biggerThan (x:Int , y:Int):Int = 
-  if x > y the x else Y
+  if x > y then x else y
   ```
 
 - `def` == defining method , `biggerThan` == function name , `(x:Int,y:Int)` == parameter list in parentheses ,`:Int` == function return type scala function **must have a return type** , `if x > y the x else Y` the body of the function
@@ -249,8 +253,8 @@ A statement is just an expression that doesn’t return a value. Statements have
 
   ```scala
     val height = 1.9d
-    val name = "James"
-    println(f"$name%s is $height%2.2f meters tall")  // James is 1.90 meters tall
+    val names = "James"
+    println(f"$names%s is $height%2.2f meters tall")  // James is 1.90 meters tall
   ``` 
 
   - raw-Interpolator
@@ -266,7 +270,6 @@ A statement is just an expression that doesn’t return a value. Statements have
 
   - for more Information about String Interpolators and their advanced usage visit this [Scala-Docs](https://docs.scala-lang.org/overviews/core/string-interpolation.html) link
 
-  ---
 
 
 **Thanks A lot For Visiting My Blog And Reading My Article See You In Next Article** 

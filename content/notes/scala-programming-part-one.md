@@ -34,7 +34,7 @@ a legible and concise programming style._
 
   ---
 
-## [GitHub Repo Click This Link]()
+
 
 ## Scala Variables
 

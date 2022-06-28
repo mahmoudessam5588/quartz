@@ -75,7 +75,7 @@ tags:
 
   4-`toArray`  is used to convert the given **sortedMap as Mentioned Above** to an array. It stores the elements in a 2-D array in which each row consists of the key and value of the map.
   I won't go in details about the wrapping and implicits of toArray method it would be out of scope of this Article but follow my blog I'm Willing to explain all Scala concepts in the upcoming Articles
-  
+
   5-`sortBy(_._2)`
   here is the method Signature:
 
@@ -105,13 +105,13 @@ tags:
 
   ```scala
      nums.toSet.size != nums.length
-  ```
+  ``` 
+
 
   ### Explaining The Solution
-
   I tried sorting and recursion but I Wasn't As fast As the Solution Above 
   I was tempted to use imperative Programming Style using `for loop` with `var` and Mutable Collection for faster Times but I will Stick with functional programming way the idea here is compare between the `Int` of  two types of collections as we know that `Set` Collection doesn't allow/add duplicate elements so i use it to compare it with the length of the `nums` array
 
 
-
+---
 **_Thanks For Visiting And Reading My Articles Stay Tuned To Upcoming Articles_**    

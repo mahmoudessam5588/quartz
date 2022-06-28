@@ -107,7 +107,9 @@ tags:
 
   ### Explaining The Solution
 
-    I tried sorting and recursion but I Wasn't As fast As the Solution Above 
-    I was tempted to use imperative Programming Style using `for loop` with `var` and Mutable Collection for faster Times but I will Stick with functional programming way the idea here is compare between the `Int` of  two types of collections as we know that `Set` Collection doesn't allow/add duplicate elements so i use it to compare it with the length of the `nums` array
+  I tried sorting and recursion but I Wasn't As fast As the Solution Above 
+  I was tempted to use imperative Programming Style using `for loop` with `var` and Mutable Collection for faster Times but I will Stick with functional programming way the idea here is compare between the `Int` of  two types of collections as we know that `Set` Collection doesn't allow/add duplicate elements so i use it to compare it with the length of the `nums` array
+
+---
 
 **_Thanks For Visiting And Reading My Articles Stay Tuned To Upcoming Articles_**    

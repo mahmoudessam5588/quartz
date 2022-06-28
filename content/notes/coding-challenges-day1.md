@@ -72,8 +72,10 @@ tags:
   Note: Internally, the underscore is expanded into a literal for a function that takes input as 1 parameter and then checks the condition which is mentioned. The same rule applies for more than 1 parameter. Multiple underscores means multiple parameters and not the use of same parameter repeatedly. Hence, this syntax is used when you want to take 1 or more parameters only once
   **In Our Case `_` here a short hand for single parameter anonymous function (x=>x)**
   **_Summarizing The Process Till now we mapped the `nums` Array as key value pairs of it's given element as key then we mapped the values of the map to their given length_**
+
   4-`toArray`  is used to convert the given **sortedMap as Mentioned Above** to an array. It stores the elements in a 2-D array in which each row consists of the key and value of the map.
   I won't go in details about the wrapping and implicits of toArray method it would be out of scope of this Article but follow my blog I'm Willing to explain all Scala concepts in the upcoming Articles
+  
   5-`sortBy(_._2)`
   here is the method Signature:
 

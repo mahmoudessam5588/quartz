@@ -94,7 +94,7 @@ tags:
 
 
 
-## Problem Two  Contains Duplicates
+## Problem Two (Contains Duplicates)
   ![problem3](https://kkminseok.github.io/assets/img/sample/leetcode/217/input.JPG)
 
   ### UnderStanding The Problem
@@ -114,4 +114,4 @@ tags:
 
 
 ---
-**_Thanks For Visiting And Reading My Articles Stay Tuned To Upcoming Articles_**    
+**_Thanks For Visiting And Reading My Articles Stay Tuned For Upcoming Articles_**    
